@@ -92,6 +92,9 @@ input {
 
 }
 
+.msgEmptyInput, .msgTryAgain {
+  margin-top: 1rem;
+}
 
 
 /* screen2 */
